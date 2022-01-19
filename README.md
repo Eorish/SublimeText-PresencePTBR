@@ -1,9 +1,9 @@
 # Presence de Discord para o Sublime Text
 [Direito do Autor e Criado do Presence Sublime Text](https://github.com/Snazzah/SublimeDiscordRP)
+
 #### - Primeiramente não fui eu que desenvolvi o Projeto, mais estou ajudando na tradução das suas configurações e Interações na linguagem Português BR
 
 ![Isso é uma imagem](https://i.ibb.co/f0vym5t/Screenshot-5.png)
-
 #### Oque mudou ? 
 
 | Mudança de Linguage |  Linguagem          |  Atualização        |
