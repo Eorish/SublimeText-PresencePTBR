@@ -1,0 +1,22 @@
+[
+	{
+		"caption": "Preferences: Configurações de Presence avançada do Discord",
+		"command": "edit_settings",
+		"args": {
+			"base_file": "${packages}/Discord Rich Presence/DiscordRichPresence.sublime-settings",
+			"default": "{\n\t$0\n}\n"
+		}
+	},
+	{
+		"caption": "Discord Rich Presence: Conectar ao Discord",
+		"command": "discordrp_connect"
+	},
+	{
+		"caption": "Discord Rich Presence: Reconectar ao Discord",
+		"command": "discordrp_reconnect"
+	},
+	{
+		"caption": "Discord Rich Presence: Disconectar",
+		"command": "discordrp_disconnect"
+	}
+]
